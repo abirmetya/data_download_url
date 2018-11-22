@@ -1,0 +1,21 @@
+::::::::::::: Usefull links for various Data  for download :::::::::::::::::
+
+============================================================================
+=========Hourly data of planetary boundary layer (PBLH)=====================
+============================================================================
+
+MERRA Data - https://disc.gsfc.nasa.gov/daac-bin/FTPSubset2.pl?LOOKUPID_List=M2T1NXFLX/
+
+..............................................................................................................
+This is a NASA Earth Data portal. Here you can select output format type (.nc) or select time period, grid etc.
+Then ther will be a list of url's of available data for your selection and you have to download it by using 
+wget. Further information is provided in the web page.
+..............................................................................................................
+
+Another source of MERRA Data - https://iridl.ldeo.columbia.edu/SOURCES/.NASA/.GSFC/.MERRA/.Anl_TurbFlux_2D/.PBLH/index.html
+
+...............................................................................................................
+This is also a source of MERRA PBLH data. JUst select the region and time you require and download it. In addition 
+this web page provides OPeNDAP request. So, data can be plotted or visualized from ferret or matlab or grads without 
+downloading the data. If require then you can download it. So, it is very useful in order to save space.
+...............................................................................................................
